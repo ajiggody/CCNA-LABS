@@ -11,13 +11,13 @@ Lab Tasks:
 
 Key Commands:
 
-1. enable - Enter privileged EXEC mode ( mode = > )
-2. conf t - Enter global configuration mode ( mode = # )
-3. hostname [name] - Set the router's hostname (config)#
-4. enable password [password] - Set an unencrypted enable password (config)#
-5. service password-encryption - Encrypt all plaintext passwords in the config (config)#
-6. no service password-encryption - Disable password encryption (config)#
-7. do show running-config - View the current running configuration from config mode (config)#
+- enable - Enter privileged EXEC mode ( mode = > )
+-  conf t - Enter global configuration mode ( mode = # )
+- hostname [name] - Set the router's hostname (config)#
+- enable password [password] - Set an unencrypted enable password (config)#
+- service password-encryption - Encrypt all plaintext passwords in the config (config)#
+- no service password-encryption - Disable password encryption (config)#
+- do show running-config - View the current running configuration from config mode (config)#
 
 Tools Used:
 
